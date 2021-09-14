@@ -1,0 +1,49 @@
+{
+    "name": "Candy #0007",
+    "symbol": "CND",
+    "description": "Celebratory Solflare NFT for the Solflare X launch",
+    "seller_fee_basis_points": 500,
+    "image": "https://www.arweave.net/abcd5678?ext=png",
+    "attributes": [
+      {
+        "trait_type": "contents_shape",
+        "value": "diamond"
+      },
+      {
+        "trait_type": "contents_shape_color",
+        "value": "purple"
+     },
+     {
+        "trait_type": "contents_shape_amount",
+        "value": "many"
+      },
+     {
+        "trait_type": "baggie_color",
+        "value": "Blue Baggie"
+      },
+     {
+        "trait_type": "logo",
+        "value": "Skull"
+      },
+     {
+        "trait_type": "logo_color",
+        "value": "indigo"
+      }
+    ],
+     
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "CXNk3DV7S2iBFbCxgy5T6f8QZoHmjiKVFTpzd51sgAVx",
+          "share": 100
+        }
+      ]
+    }
+  }
